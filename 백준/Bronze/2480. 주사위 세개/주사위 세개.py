@@ -7,4 +7,4 @@ elif x[0]==x[1] or x[1]==x[2] or x[0]==x[2]:
   print(1000+x[1]*100)
 else:
   x.sort()
-  print(x[2]*100)
+  print(x[2]*100) #x.max()로도 가능
