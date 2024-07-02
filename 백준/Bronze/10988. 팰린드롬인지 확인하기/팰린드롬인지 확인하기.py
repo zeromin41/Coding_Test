@@ -9,3 +9,6 @@ if 0 in x:
   print(0)
 else: 
   print(1)
+
+
+#파이썬 내장함수 reversed 사용하면 아주 쉬웠던 문제네욤..ㅎ
